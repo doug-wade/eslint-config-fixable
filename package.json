@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-fixable",
+  "version": "0.0.1",
+  "description": "A eslint preset with all the fixable rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint . --max-warnings 0"
+  },
+  "keywords": [],
+  "author": "Doug Wade",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "7.0.0",
+    "eslint": "3.7.0"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
