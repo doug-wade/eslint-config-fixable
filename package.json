@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-fixable",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A eslint preset with all the fixable rules",
   "repository": {
     "type": "git",
