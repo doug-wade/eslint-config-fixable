@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-fixable",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "A eslint preset with all the fixable rules",
   "repository": {
     "type": "git",
@@ -16,11 +16,8 @@
   "author": "Doug Wade",
   "license": "MIT",
   "devDependencies": {
-    "babel-eslint": "7.0.0",
-    "eslint": "3.7.0",
-    "tap": "7.1.2"
-  },
-  "peerDependencies": {
-    "eslint": ">= 3"
+    "babel-eslint": "^7.2.1",
+    "eslint": "^3.19.0",
+    "tap": "^10.3.1"
   }
 }
