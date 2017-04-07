@@ -33,7 +33,7 @@ There are a number of rules that are es6-specific, so you may also want to consi
     "extends": "eslint-config-fixable",
     "parser": "babel-eslint"
 }
-
+```
 
 # Disclaimer
 
