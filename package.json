@@ -16,8 +16,8 @@
   "author": "Doug Wade",
   "license": "MIT",
   "devDependencies": {
-    "babel-eslint": "^7.2.1",
-    "eslint": "^3.19.0",
-    "tap": "^10.3.1"
+    "babel-eslint": "^8.2.3",
+    "eslint": "^4.19.1",
+    "tap": "^11.1.4"
   }
 }
