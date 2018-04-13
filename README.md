@@ -1,5 +1,7 @@
 # eslint-config-fixable
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/doug-wade/eslint-config-fixable.svg)](https://greenkeeper.io/)
+
 A eslint preset with all the fixable rules.  If you notice a rule missing, send me a pr!
 
 
